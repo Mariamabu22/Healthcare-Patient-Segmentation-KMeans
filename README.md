@@ -25,15 +25,12 @@ My main contributions to this project included:
 
 ## Key Skills & Tools
 
-- **Python** – Data analysis and machine learning
-- **Pandas & NumPy** – Data cleaning and manipulation
-- **Scikit-learn** – StandardScaler, K-Means, Silhouette Score, and PCA
-- **Matplotlib** – Data visualization
-- **Data Preprocessing** – Missing values, validation, and outlier analysis
-- **Feature Engineering** – Creation of meaningful patient-level features
-- **Machine Learning** – Unsupervised learning using K-Means clustering
-- **Model Evaluation** – Elbow Method and Silhouette Analysis
-- **PCA** – Cluster visualization and interpretation
+- [Python & Data Preprocessing](notebooks/) – Data cleaning, validation, and preparation
+- [Feature Engineering](notebooks/) – Development of six patient-level features
+- [Machine Learning](notebooks/) – K-Means clustering and model evaluation
+- [Data Visualization](images/) – Elbow, Silhouette, PCA, and cluster comparison
+- [Project Report](report/) – Detailed methodology, results, and recommendations
+- [Presentation](presentation/) – Data storytelling and communication of findings
 
 ## Project Highlights
 
